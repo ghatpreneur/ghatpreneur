@@ -1,8 +1,8 @@
-# Halo semua! 
+# Welcome Broo! 
 
 Perkenalkan nama saya **Muhammad Ghatfan Prayoga**.<br>
 
-Saya seorang **AI ENGINEER** 
+Saya seorang **AI ENGINEER, DATA SCIENCE DAN ML ENGINEER** 
 
 <p align="left">
 <a href="https://github.com/ghatpreneur">
